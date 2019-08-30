@@ -15,7 +15,7 @@ function sparckley(elem) {
 
 $(function() {
 
-	$axure.utils.loadCSS('http://documents.groupe-ipanema.com/axure/sparkley.css')
+	$axure.utils.loadCSS('https://raw.githubusercontent.com/IPANEMA-DIGITAL/axure2/master/sparkley.css')
 	  
 	  $("[data-label*='sparkley']").sparkleh( {
 		// color:"rainbow",
